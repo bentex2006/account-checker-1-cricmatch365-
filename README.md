@@ -98,7 +98,7 @@ Edit `main.py` to modify:
 
 ## 🧠 How It Works
 
-For detailed explanation on **how this project functions step by step**, see [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md).
+For detailed explanation on **how this project functions step by step**, see [HOW_IT_WORKS.md](HOW_IT_WORKS.md).
 
 🔎 **Quick Summary:**
 
@@ -112,7 +112,7 @@ For detailed explanation on **how this project functions step by step**, see [do
 
 ## 📚 Resources Used
 
-Full list with links available in [docs/RESOURCES.md](docs/RESOURCES.md).
+Full list with links available in [RESOURCES.md](RESOURCES.md).
 
 ✅ Python Requests documentation  
 ✅ Colorama for CLI colors  
