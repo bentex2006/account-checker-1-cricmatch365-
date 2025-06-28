@@ -82,7 +82,6 @@ Edit `main.py` to modify:
 
 ```
 
-*(currently used as a placeholder for future dynamic configs)*
 
 ---
 
