@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# 🎯 CricMatch365 Account Checker  [edu]
+#🎯 Python Account Checker Developer | Learning Cybersecurity & Automation | For Educational Purposes Only
 
 <img src="https://github.com/user-attachments/assets/b1052724-11d5-4c4a-b237-b2bfde6f638f" alt="Project Banner" width="80%"/>
 
