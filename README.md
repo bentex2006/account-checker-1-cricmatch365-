@@ -5,7 +5,7 @@
 
 # 🎯 CricMatch365 Account Checker  [edu]
 
-<img src="https://github.com/user-attachments/assets/bc2b387a-7de9-4ca5-a8d3-e2cc2f65b7e9" alt="Project Banner" width="80%"/>
+<img src="https://github.com/user-attachments/assets/b1052724-11d5-4c4a-b237-b2bfde6f638f" alt="Project Banner" width="80%"/>
 
 A **multithreaded Python tool** to check CricMatch365 accounts, log in, and fetch balances efficiently.
 
