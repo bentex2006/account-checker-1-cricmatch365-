@@ -72,14 +72,14 @@ python main.py
 
 ## ⚙️ Configuration
 
-Edit `config.json` to modify:
+Edit `main.py` to modify:
 
-```json
-{
+```py
+
   "base_url": "https://cricmatch365.com",
   "timeout": 10,
   "max_threads": 400
-}
+
 ```
 
 *(currently used as a placeholder for future dynamic configs)*
