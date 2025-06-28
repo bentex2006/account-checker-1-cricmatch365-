@@ -94,6 +94,35 @@ Edit `main.py` to modify:
 ✔️ Clean code and project structuring for GitHub
 
 ---
+---
+
+## 🧠 How It Works
+
+For detailed explanation on **how this project functions step by step**, see [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md).
+
+🔎 **Quick Summary:**
+
+1. Extracts CSRF token from CricMatch365 homepage.
+2. Logs into each account using secure POST requests.
+3. Fetches account balance via API.
+4. Uses multithreading for faster checking.
+5. Saves all successful hits with balances to a text file.
+
+---
+
+## 📚 Resources Used
+
+Full list with links available in [docs/RESOURCES.md](docs/RESOURCES.md).
+
+✅ Python Requests documentation  
+✅ Colorama for CLI colors  
+✅ ThreadPoolExecutor for multithreading  
+✅ OWASP CSRF token explanation  
+✅ Regex tutorials for parsing HTML/JSON
+
+---
+
+---
 
 ## 👤 Author
 
@@ -101,7 +130,7 @@ Edit `main.py` to modify:
 
 **Skittle (b3nt3x)**
 Learning Python, automation, and cybersecurity.
-Telegram: [@cracker666user](linktr.ee/mrbentex)
+Telegram: [Click here](https://linktr.ee/mrbentex)
 
 </div>
 
